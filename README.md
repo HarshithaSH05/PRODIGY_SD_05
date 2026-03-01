@@ -13,12 +13,12 @@ The application extracts product information from an online e-commerce website a
 
 ### Features
 
-✔ Multi-page web scraping  
-✔ Extracts 100+ products  
-✔ Interactive Streamlit interface  
-✔ Progress bar indicator  
-✔ Data table visualization  
-✔ CSV file download  
+- Multi-page web scraping  
+- Extracts 100+ products  
+- Interactive Streamlit interface  
+- Progress bar indicator  
+- Data table visualization  
+- CSV file download  
 
 ### Technologies Used
 
