@@ -41,3 +41,8 @@ streamlit run app.py
 ### Website Used
 
 http://books.toscrape.com
+
+### Live Demo
+The application is deployed and accessible here:
+
+https://appigysd02-l5zb2o8rpc7avfg8jfcrjg.streamlit.app/
